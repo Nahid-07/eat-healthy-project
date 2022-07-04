@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header-part{
+    display: flex;
+    align-items: center;
+
+}
+.header-left-side{
+    width: 50%;
+    padding-left: 60px;
+    margin-left: 50px;
+}
+.header-right-side{
+    width: 50%;
+}
+.resize{
+    width: 90%;
+}
+.heading{
+    font-size: 60px;
+}
+.text-color{
+    color: #FCA060;
+}
+.quote{
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(#FE4D30,#FC924A);
+    padding: 34px 96px;
+    border-radius: 50px;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 25px;
+}
