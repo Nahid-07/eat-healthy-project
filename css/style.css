@@ -112,3 +112,14 @@ a{
 .card-content p{
     font-size: 20px;
 }
+.wrapper{
+    width: 600px;
+    height: 200px;
+    display: flex;
+    margin: 100px auto;
+    justify-content: space-between;
+    box-shadow: 11px 15px 39px -8px rgba(102,102,102,0.91);
+    align-items: center;
+    padding:  0 50px;
+    border-radius: 5px;
+}
