@@ -67,6 +67,20 @@ a{
     border-radius: 50px;
     margin-top: 20px;
 }
+.my-recipe-heading h1{
+    font-size: 40px;
+    text-align: center;
+}
+.my-recipe-heading{
+    font-size: 20px;
+    text-align: center;
+}
+.my-recipe-heading{
+    width: 600px;
+    height: 120px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
 .about-txt{
     font-size: 40px;
 }
@@ -74,4 +88,27 @@ a{
     font-size: 20px;
     text-align: justify;
     padding-right: 60px;
+}
+.recipe-area{
+    display: flex;
+    justify-content: space-around;
+}
+.card-1{
+    width:610px;
+    height: 562px;
+    text-align: center;
+    padding: 30px;
+    box-shadow: 11px 15px 39px -8px rgba(102,102,102,0.91);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+.card-content img{
+    width: 550px;
+    height: 308px;
+}
+.card-content p{
+    font-size: 20px;
 }
